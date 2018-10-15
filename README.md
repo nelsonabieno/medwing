@@ -9,7 +9,7 @@ install and run Redis in your server
 ## Installation
 
 1) `git clone ...`
-2) `cd homeday`
+2) `cd medwing`
 3) `bundle install`
 4) `rake db:setup`
 5) `rake db:seed`
