@@ -2,7 +2,7 @@
 
 This is a Web API for storing readings from IoT thermostats and reporting a simple statistics on them.
 
-##Prerequisites
+## Prerequisites
 
 install and run Redis in your server
 
